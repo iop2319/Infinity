@@ -1,0 +1,6 @@
+C:\Users\purpl\source\repos\InfinityShell\InfinityShell\bin\Debug\InfinityShell.exe
+C:\Users\purpl\source\repos\InfinityShell\InfinityShell\bin\Debug\InfinityShell.pdb
+C:\Users\purpl\source\repos\InfinityShell\InfinityShell\obj\Debug\InfinityShell.csprojAssemblyReference.cache
+C:\Users\purpl\source\repos\InfinityShell\InfinityShell\obj\Debug\InfinityShell.csproj.CoreCompileInputs.cache
+C:\Users\purpl\source\repos\InfinityShell\InfinityShell\obj\Debug\InfinityShell.exe
+C:\Users\purpl\source\repos\InfinityShell\InfinityShell\obj\Debug\InfinityShell.pdb
